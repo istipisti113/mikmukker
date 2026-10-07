@@ -1,0 +1,23 @@
+Id;AutoId;Dátum;Kategória;Megnevezés;Összeg;Km
+1;1;2026.01.10.;Biztosítás;Kötelező biztosítás;68500;118000
+2;1;2026.02.15.;Szerviz;Olaj- és szűrőcsere;48500;120500
+3;1;2026.04.20.;Üzemanyag;Tankolás;32000;122100
+4;1;2026.06.12.;Gumiabroncs;Nyári gumi;156000;123800
+5;1;2026.09.15.;Szerviz;Fékbetét csere;92000;124500
+6;2;2026.01.15.;Biztosítás;Kötelező biztosítás;74500;137000
+7;2;2026.03.12.;Szerviz;Olajcsere;52000;139500
+8;2;2026.05.18.;Üzemanyag;Tankolás;41000;141200
+9;2;2026.08.21.;Javítás;Klímajavítás;128000;143000
+10;3;2026.02.05.;Biztosítás;Kötelező biztosítás;62000;91000
+11;3;2026.03.25.;Szerviz;Olajcsere;68000;93000
+12;3;2026.07.10.;Gumiabroncs;Négyévszakos gumi;189000;96000
+13;4;2026.01.20.;Biztosítás;Kötelező biztosítás;81500;160000
+14;4;2026.04.14.;Javítás;Kuplungcsere;285000;164500
+15;4;2026.06.22.;Szerviz;Olajcsere;59000;166000
+16;5;2026.02.18.;Biztosítás;Kötelező biztosítás;58500;70000
+17;5;2026.05.05.;Szerviz;Éves szerviz;46500;73000
+18;5;2026.08.15.;Üzemanyag;Tankolás;28000;75000
+19;6;2026.01.25.;Biztosítás;Kötelező biztosítás;79000;181000
+20;6;2026.03.30.;Javítás;Futóműjavítás;215000;184500
+21;6;2026.06.18.;Szerviz;Olajcsere;62000;187000
+22;6;2026.09.02.;Műszaki vizsga;Műszaki vizsga;42000;189000
